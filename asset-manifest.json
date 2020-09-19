@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73125e23.chunk.css",
+    "main.js": "/static/js/main.8f5a4e9c.chunk.js",
+    "main.js.map": "/static/js/main.8f5a4e9c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.18afb500.js",
+    "runtime-main.js.map": "/static/js/runtime-main.18afb500.js.map",
+    "static/js/2.699b3395.chunk.js": "/static/js/2.699b3395.chunk.js",
+    "static/js/2.699b3395.chunk.js.map": "/static/js/2.699b3395.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b8d2f52403b838a283cd69dfccbb4c5b.js": "/precache-manifest.b8d2f52403b838a283cd69dfccbb4c5b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.73125e23.chunk.css.map": "/static/css/main.73125e23.chunk.css.map",
+    "static/js/2.699b3395.chunk.js.LICENSE.txt": "/static/js/2.699b3395.chunk.js.LICENSE.txt",
+    "static/media/Head.css": "/static/media/cypress-darkened.73d8e624.jpg",
+    "static/media/App.css": "/static/media/cypress_background.de1e9254.jpg",
+    "static/media/gitHub-white.png": "/static/media/gitHub-white.1ae0c166.png",
+    "static/media/headshot3.jpg": "/static/media/headshot3.2bb7d4dd.jpg",
+    "static/media/linkedIn-white.png": "/static/media/linkedIn-white.8c2a56c9.png",
+    "static/media/ravenous_thumb.jpg": "/static/media/ravenous_thumb.d9ae1cc7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18afb500.js",
+    "static/js/2.699b3395.chunk.js",
+    "static/css/main.73125e23.chunk.css",
+    "static/js/main.8f5a4e9c.chunk.js"
+  ]
+}
